@@ -1,4 +1,4 @@
-# BDD Playwright Automation Framework Skeleton
+# bdd-playwright-automation-framework
 
 ## Overview
 This project is a skeleton for a BDD test automation framework using Maven, Playwright Java, Cucumber, JUnit, Page Object Model, Extent Report, and Log4j.
