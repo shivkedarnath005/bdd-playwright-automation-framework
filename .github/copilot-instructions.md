@@ -1,0 +1,6 @@
+- [ ] Project skeleton created for BDD Playwright Automation Framework
+- [ ] Maven, Playwright Java, Cucumber, JUnit, Page Object Model, Extent Report, Log4j included
+- [ ] Directory structure follows industry standards
+- [ ] Placeholder files for configuration and hooks
+- [ ] No implementation code added
+- [ ] README.md and pom.xml created
